@@ -7,7 +7,7 @@
 /*! exports provided: mynameis, default */
 /***/ (function(module) {
 
-module.exports = {"mynameis":"killian"};
+module.exports = {"mynameis":"Killian"};
 
 /***/ }),
 
@@ -151,7 +151,7 @@ var _jsxFileName = "C:\\Users\\Killian\\Documents\\GitHub\\killianmccabe-site-ge
       lineNumber: 21
     },
     __self: this
-  }, "Software engineer with a passion for good UX.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Software engineer with a passion for great UX.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
@@ -237,7 +237,16 @@ var _jsxFileName = "C:\\Users\\Killian\\Documents\\GitHub\\killianmccabe-site-ge
       lineNumber: 8
     },
     __self: this
-  }, "Art")))));
+  }, "Art"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    className: "page-link",
+    href: "https://drive.google.com/open?id=1XKbw6HrtHHZ0IKk0vih1IEiXnwTegobN",
+    target: "_blank",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Resume")))));
 });
 
 /***/ }),
@@ -3261,7 +3270,7 @@ var _jsxFileName = "C:\\Users\\Killian\\Documents\\GitHub\\killianmccabe-site-ge
 
 
 function Home(_ref) {
-  var stars = _ref.stars;
+  var name = _ref.name;
   return react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_layouts_main__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
@@ -3280,13 +3289,25 @@ function Home(_ref) {
       lineNumber: 10
     },
     __self: this
-  }, "Hi I'm Killian ^^"), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
+  }, "Hi I'm ", name, ", a Dublin-based software programmer."), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     },
     __self: this
-  }, "I'm glad you've stumbled upon my website. I hope you'll stay for a while and look at some of my personal game projects and 3d artwork.")));
+  }, "I'm glad you've stumbled upon my website. I hope you'll stay for a while and look at some of my game projects and 3D artwork."), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "Most of my website is still ", react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("b", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "in progress"), ". Check back soon and I might have more content.")));
 }
 
 Home.getInitialProps =
@@ -3303,7 +3324,7 @@ function () {
             req = _ref2.req;
             config = __webpack_require__(/*! ../assets/config.json */ "./assets/config.json");
             return _context.abrupt("return", {
-              stars: config.mynameis
+              name: config.mynameis
             });
 
           case 3:

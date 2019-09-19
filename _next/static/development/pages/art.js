@@ -140,7 +140,7 @@ var _jsxFileName = "C:\\Users\\Killian\\Documents\\GitHub\\killianmccabe-site-ge
       lineNumber: 21
     },
     __self: this
-  }, "Software engineer with a passion for good UX.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
+  }, "Software engineer with a passion for great UX.", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
@@ -226,7 +226,16 @@ var _jsxFileName = "C:\\Users\\Killian\\Documents\\GitHub\\killianmccabe-site-ge
       lineNumber: 8
     },
     __self: this
-  }, "Art")))));
+  }, "Art"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    className: "page-link",
+    href: "https://drive.google.com/open?id=1XKbw6HrtHHZ0IKk0vih1IEiXnwTegobN",
+    target: "_blank",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Resume")))));
 });
 
 /***/ }),
@@ -2518,7 +2527,33 @@ function (_React$Component) {
           lineNumber: 8
         },
         __self: this
-      }, "This is where I'll add links to my artwork.");
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 9
+        },
+        __self: this
+      }, "This section is in progress.")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
+      }, "Until this page is finished you can view my 3D art here on my ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://www.artstation.com/killianmccabe",
+        target: "_blank",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 10
+        },
+        __self: this
+      }, "Artstation page"), "."));
     }
   }]);
 
@@ -2529,7 +2564,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 2:
 /*!***************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fart&absolutePagePath=C%3A%5CUsers%5CKillian%5CDocuments%5CGitHub%5Ckillianmccabe-site-gen%5Csrc%5Cpages%5Cart.js ***!
   \***************************************************************************************************************************************************************/
@@ -2552,5 +2587,5 @@ module.exports = dll_4cbc3223160d403191c6;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js","styles"]]]);
+},[[2,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=art.js.map
