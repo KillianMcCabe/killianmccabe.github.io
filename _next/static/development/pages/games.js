@@ -2573,7 +2573,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         className: "game-image",
-        src: "static/PuzzleDungeon.png",
+        src: "/static/PuzzleDungeon.png",
         height: "200",
         width: "200",
         __source: {
@@ -2669,7 +2669,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         className: "game-image",
-        src: "static/Memory.png",
+        src: "/static/Memory.png",
         height: "200",
         width: "200",
         __source: {
@@ -2752,7 +2752,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 0:
 /*!*******************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fgames&absolutePagePath=C%3A%5CUsers%5CKillian%5CDocuments%5CGitHub%5Ckillianmccabe-site-gen%5Csrc%5Cpages%5Cgames.js ***!
   \*******************************************************************************************************************************************************************/
@@ -2775,5 +2775,5 @@ module.exports = dll_4cbc3223160d403191c6;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=games.js.map
