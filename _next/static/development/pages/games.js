@@ -2564,7 +2564,7 @@ function (_React$Component) {
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://killianmccabe.github.io/PuzzleDungeon/",
+        href: "https://ldjam.com/events/ludum-dare/41/tower-defense-dating-simulator",
         target: "_blank",
         __source: {
           fileName: _jsxFileName,
@@ -2573,7 +2573,7 @@ function (_React$Component) {
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         className: "game-image",
-        src: "/static/PuzzleDungeon.png",
+        src: "/static/tdds.png",
         height: "200",
         width: "200",
         __source: {
@@ -2596,50 +2596,58 @@ function (_React$Component) {
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://killianmccabe.github.io/PuzzleDungeon/",
+        href: "https://ldjam.com/events/ludum-dare/41/tower-defense-dating-simulator",
         target: "_blank",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22
         },
         __self: this
-      }, "Puzzle Dungeon"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
-        className: "game-platforms",
+      }, "Tower Defense Dating Simulator"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
+        title: "PC",
+        className: "fab fa-windows",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 23
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
-        title: "HTML5 (web)",
-        className: "fab fa-html5",
+      }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
+        title: "Mac",
+        className: "fab fa-apple",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 24
         },
         __self: this
-      }))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-categories",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 27
+          lineNumber: 26
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-category",
         __source: {
           fileName: _jsxFileName,
+          lineNumber: 27
+        },
+        __self: this
+      }, "3D"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-category",
+        __source: {
+          fileName: _jsxFileName,
           lineNumber: 28
         },
         __self: this
-      }, "2D"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Action"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-category",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 29
         },
         __self: this
-      }, "Puzzle")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Tower Defense")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-description",
         __source: {
           fileName: _jsxFileName,
@@ -2652,61 +2660,60 @@ function (_React$Component) {
           lineNumber: 32
         },
         __self: this
-      }, "Explore a dungeon filled with puzzles. Each puzzle is harder than the ones before. Can you reach the end?")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "game",
+      }, "Made in 48 hours for Ludum Dare 41, this is a tower defense game with a romantic twist."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
+          lineNumber: 33
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://killianmccabe.github.io/MemoryGame/",
-        target: "_blank",
+      }, "I'm starting to work on this game again so expect a big update soon!")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 38
         },
         __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://killianmccabe.github.io/PuzzleDungeon/",
+        target: "_blank",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 39
+        },
+        __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         className: "game-image",
-        src: "/static/Memory.png",
+        src: "/static/PuzzleDungeon.png",
         height: "200",
         width: "200",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 39
+          lineNumber: 40
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-details",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 41
+          lineNumber: 42
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-title",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 42
-        },
-        __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://killianmccabe.github.io/MemoryGame/",
-        target: "_blank",
-        __source: {
-          fileName: _jsxFileName,
           lineNumber: 43
         },
         __self: this
-      }, "Memory"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
-        className: "game-platforms",
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://killianmccabe.github.io/PuzzleDungeon/",
+        target: "_blank",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 44
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
+      }, "Puzzle Dungeon"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
         title: "HTML5 (web)",
         className: "fab fa-html5",
         __source: {
@@ -2714,14 +2721,21 @@ function (_React$Component) {
           lineNumber: 45
         },
         __self: this
-      }))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-categories",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 47
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-category",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 48
         },
         __self: this
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "2D"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "game-category",
         __source: {
           fileName: _jsxFileName,
@@ -2741,6 +2755,88 @@ function (_React$Component) {
           lineNumber: 52
         },
         __self: this
+      }, "Explore a dungeon filled with puzzles. Each puzzle is harder than the ones before. Can you reach the end?")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 57
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://killianmccabe.github.io/MemoryGame/",
+        target: "_blank",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 58
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
+        className: "game-image",
+        src: "/static/Memory.png",
+        height: "200",
+        width: "200",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 59
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-details",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 61
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-title",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 62
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://killianmccabe.github.io/MemoryGame/",
+        target: "_blank",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 63
+        },
+        __self: this
+      }, "Memory"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
+        title: "HTML5 (web)",
+        className: "fab fa-html5",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 64
+        },
+        __self: this
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-categories",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 66
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-category",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 67
+        },
+        __self: this
+      }, "Puzzle")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "game-description",
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 69
+        },
+        __self: this
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 70
+        },
+        __self: this
       }, "Train your brain by memorising cards and matching pairs.")))));
     }
   }]);
@@ -2752,7 +2848,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 3:
 /*!*******************************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fgames&absolutePagePath=C%3A%5CUsers%5CKillian%5CDocuments%5CGitHub%5Ckillianmccabe-site-gen%5Csrc%5Cpages%5Cgames.js ***!
   \*******************************************************************************************************************************************************************/
@@ -2775,5 +2871,5 @@ module.exports = dll_4cbc3223160d403191c6;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js","styles"]]]);
+},[[3,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=games.js.map
